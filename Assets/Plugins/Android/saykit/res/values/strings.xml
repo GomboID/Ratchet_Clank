@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">Save the way</string>
+<string name="facebook_app_id">653259619093490</string>
+<string name="facebook_client_token">9062cdac064ad411952127e6b77e5b2e</string>
+<string name="fb_login_protocol_scheme">fb653259619093490</string>
+<string name="admob_app_id">ca-app-pub-6062692039613877~6247650209</string>
+<string name="maxsdk_key">NDcrL4E6eTcwHnfZbHRNw-0AoxPCMdQSgFOFkOyJ8D1VJrumRobtyvufr93tccBk3mIya4_CTO_SENV-vluony</string>
+</resources>

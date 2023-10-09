@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682694792906",
+    "project_id": "save-the-way",
+    "storage_bucket": "save-the-way.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682694792906:android:27adb3c307174a24ecc633",
+        "android_client_info": {
+          "package_name": "com.save.crashtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682694792906-o0moejtlsaf6jdc448vn01fd823d3bfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfE5RLz5eDvrYwzGC3blDXMW6oEbYzyZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682694792906-o0moejtlsaf6jdc448vn01fd823d3bfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
